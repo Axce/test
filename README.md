@@ -1,2 +1,2 @@
 # test
-ceci n'est pas un test
+ceci est une résolution de conflit de canard
